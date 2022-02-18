@@ -1,2 +1,16 @@
 # rust-rpi
+
 Rust lang and RPI for control theory
+
+## TODOS
+
+### First asignemt connect to matlab till 21-02-22
+
+- [ ] Setup SSH connection to RPI
+- [ ] Configure VScode for remote development
+- [ ] run hello world with rust
+- [ ] blink led with rust
+- [ ] setup realtime communication with pc
+  - [ ] read thru seral or some network analyzer
+  - [ ] send incremental byte every 10ms
+- [ ] Setup Matlab to receive the serial communication
