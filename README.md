@@ -6,8 +6,8 @@ Rust lang and RPI for control theory
 
 ### First asignemt connect to matlab till 21-02-22
 
-- [ ] Setup SSH connection to RPI
-- [ ] Configure VScode for remote development
+- [x] Setup SSH connection to RPI
+- [x] Configure VScode for remote development
 - [ ] run hello world with rust
 - [ ] blink led with rust
 - [ ] setup realtime communication with pc
