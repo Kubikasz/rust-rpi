@@ -8,8 +8,8 @@ Rust lang and RPI for control theory
 
 - [x] Setup SSH connection to RPI
 - [x] Configure VScode for remote development
-- [ ] run hello world with rust
-- [ ] blink led with rust
+- [x] run hello world with rust
+- [x] blink led with rust
 - [ ] setup realtime communication with pc
   - [ ] read thru seral or some network analyzer
   - [ ] send incremental byte every 10ms
