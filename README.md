@@ -14,3 +14,7 @@ Rust lang and RPI for control theory
   - [ ] read thru seral or some network analyzer
   - [ ] send incremental byte every 10ms
 - [ ] Setup Matlab to receive the serial communication
+
+### Progess
+
+- (Cross compile, ssh deploy hello world)[https://youtu.be/c3Lho75i6j8]
